@@ -54,6 +54,5 @@
 			echo"<h2>Selamat Datang</h2>";echo"Nama : ". $nama . "<br>" . "NIM  : " .$NIM;
 		}
 ?>
-</center>
 </body>
 </html>
